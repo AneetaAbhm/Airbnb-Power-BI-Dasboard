@@ -8,7 +8,8 @@ This Power BI project provides a comprehensive analysis of Airbnb listings in Ne
 
 ![Screenshot 2024-09-02 205448](https://github.com/user-attachments/assets/252f80e7-02f2-4eb3-adaa-259e981c83f2)
 
-![Screenshot 2024-09-02 205507](https://github.com/user-attachments/assets/f55a7cd6-a9f2-4b38-8aa6-4951468b06de)
+![image](https://github.com/user-attachments/assets/288ddb43-6916-48a9-8403-78c5ae03002d)
+
 
 
 ### 1. Dashboard

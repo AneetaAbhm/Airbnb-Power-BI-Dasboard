@@ -32,7 +32,7 @@ This Power BI project provides a comprehensive analysis of Airbnb listings in Ne
 - **Line and Bar Chart:** Total Bookings by Neighborhood Group
 - **Bar Chart:** Top 10 Hosts by Total Reviews
 - **Line Chart:** Total Last Reviews by Year
-- **Heatmap:** Average Reviews by Neighborhood and Room Type
+- **Table:** Average Reviews by Neighborhood and Room Type
 
 ### 3. Country Wise Report
 

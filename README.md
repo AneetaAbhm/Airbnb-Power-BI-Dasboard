@@ -56,7 +56,7 @@ This Power BI project provides a comprehensive analysis of Airbnb listings in Ne
 - **Dynamic Slicers:** Enable real-time data filtering across various dimensions (Neighborhood, Room Type, Price, Number of Reviews).
 - **Visual Diversity:** A mix of bar charts, line charts, scatter plots, treemaps, and maps for a holistic view of the data.
 - **Tooltips and Cross-Page Filtering:** Enhances user experience by providing additional insights and quick access to detailed visualizations
-- 
+  
 ## Usage
 
 To view this Power BI report, download the `.pbix` file from the repository and open it in Power BI Desktop. Use the slicers and interactive elements to explore the data in detail.
